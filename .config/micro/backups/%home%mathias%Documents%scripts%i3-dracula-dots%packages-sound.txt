@@ -1,0 +1,10 @@
+pulseaudio
+pavucontrol
+alsa-utils
+alsa-plugins
+alsa-firmware
+gst-libav
+gst-plugin-pipewire
+gst-plugins-bad
+gst-plugins-ugly
+playerctl
