@@ -7,9 +7,9 @@ First do a base Arch install, there's an automated script here: https://github.c
 
 Once base setup is finished:
 
-git clone https://github.com/Krimkerre/i3-dracula-dots.git
+git clone https://github.com/Krimkerre/i3-gruvbox-dots.git
 
-cd i3-dracula-dots
+cd i3-gruvbox-dots
 
 chmod +x *.sh
 
