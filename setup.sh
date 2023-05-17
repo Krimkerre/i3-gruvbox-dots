@@ -127,6 +127,7 @@ yay -S mailspring   --noconfirm --needed
 yay -S gruvbox-material-gtk-theme-git   --noconfirm --needed
 yay -S gruvbox-material-icon-theme-git --noconfirm --needed
 yay -S bibata-cursor-theme-bin --noconfirm --needed
+yay -S xcursor-neutral --noconfirm --needed
 
 mkdir /usr/share/backgrounds
 cp -R gruvbox_doge_2.png /usr/share/backgrounds/gruvbox_doge_2.png
